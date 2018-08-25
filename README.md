@@ -1,7 +1,7 @@
 # cpi
 The Jupyter notebook is split into two parts.
 
-Part 1 contains code to predict Singapore's monthly Consumer Price Index via univariate time-series modelling. I explore the use of autoregressive, moving average, and ARMA models; model identification is achieved via the Box-Jenkins method.
+Part 1 contains code to predict Singapore's monthly Consumer Price Index via traditional time-series modelling. I explore the use of autoregressive, moving average, and ARMA models; model identification is achieved via the Box-Jenkins method.
 
 Part 2 contains code to predict Singapore's monthly Consumer Price Index via LSTM (Long Short Term Memory) network.
 
